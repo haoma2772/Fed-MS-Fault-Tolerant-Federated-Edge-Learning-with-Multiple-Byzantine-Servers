@@ -36,7 +36,7 @@ fed_paras:
   round: 20
   iid: False
   dirichlet_rate: 1
-  client_number: 10
+  client_number: 50
   server_num: 10
   attacker_rate: 0.2
   split_rate: 0.9
